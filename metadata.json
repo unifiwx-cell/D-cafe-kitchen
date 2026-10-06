@@ -1,0 +1,6 @@
+{
+  "name": "D Cafe & Kitchen | Luxury Indian Cafe & Restaurant Agra",
+  "description": "Experience D Cafe & Kitchen in Tajganj, Agra. Freshly prepared authentic Indian curries, aloo paratha, thali, and warm hospitality in a luxurious dark-themed ambiance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
